@@ -1,18 +1,16 @@
 {
-  "name": "@uniswap/v2-core",
-  "description": "🎛 Core contracts for the UniswapV2 protocol",
-  "version": "1.0.1",
-  "homepage": "https://uniswap.org",
+  "name": "@popswap/core",
+  "description": "🎛 Core contracts for the Popswap protocol",
+  "version": "1.0.0",
+  "homepage": "https://popswap.click",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Uniswap/uniswap-v2-core"
+    "url": "https://github.com/popcatrock/core"
   },
   "keywords": [
-    "uniswap",
-    "ethereum",
-    "v2",
-    "core",
-    "uniswap-v2"
+    "popswap",
+    "bitrock",
+    "core"
   ],
   "files": [
     "contracts",
